@@ -1,10 +1,10 @@
-# 📚 Book Recommendation System
+#  Book Recommendation System
 
 This project is a hybrid **Book Recommender System** built using Python and pandas, designed to provide book suggestions using both **popularity-based** and **collaborative filtering** techniques. The model is trained on the [Book-Crossing Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset) from Kaggle.
 
 ---
 
-## 🔍 Features
+## Features
 
 - Popularity-based recommendations: Top-rated books with high user engagement
 - Collaborative filtering using cosine similarity: Personalized recommendations based on user behavior
@@ -13,7 +13,7 @@ This project is a hybrid **Book Recommender System** built using Python and pand
 
 ---
 
-## 📁 Dataset Used
+##  Dataset Used
 
 The dataset is fetched using `kagglehub`:
 
@@ -23,7 +23,7 @@ The dataset is fetched using `kagglehub`:
 
 ---
 
-## 🧠 Models
+##  Models
 
 ### 1. Popularity-Based Recommendation
 
@@ -45,7 +45,7 @@ The dataset is fetched using `kagglehub`:
 
 
 
-## 🛠️ Requirements
+##  Requirements
 
 * Python 3.x
 * pandas
@@ -62,7 +62,7 @@ pip install pandas numpy scikit-learn kagglehub
 
 ---
 
-## 📦 Setup
+##  Setup
 
 ```python
 import kagglehub
